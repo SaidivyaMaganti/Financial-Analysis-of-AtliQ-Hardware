@@ -14,7 +14,7 @@ I have Prepared the following financial reports, namely:
 
 In this project, I accomplished the following tasks:
 
-**Merging Data from Multiple Tables**: I combined data from various tables by using the VLOOKUP, XLOOKUP INDEX, & MATCH functions.
+**Merging Data from Multiple Tables**: I combined data from various tables by using the VLOOKUP, XLOOKUP INDEX, & MATCH functions and used Conditional Formatting
 
 **Statistical Analysis**: I performed statistical analysis, including calculations for mean, median, mode, variance, standard deviation, and correlation.
 
