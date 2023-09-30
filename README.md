@@ -19,8 +19,7 @@ In this project, I accomplished the following tasks:
 **Statistical Analysis**: I performed statistical analysis, including calculations for mean, median, mode, variance, standard deviation, and correlation.
 
 **Data Modeling and DAX Measures**: I engaged in data modeling and created DAX measures within PowerPivot to enhance data analysis and reporting capabilities
-
-![image](https://github.com/SaidivyaMaganti/Financial-Analysis-of-AtliQ-Hardware/assets/137191809/a8155382-b09e-4304-8bde-5bfff4bbb773)
+![image](https://github.com/SaidivyaMaganti/Financial-Analysis-of-AtliQ-Hardware/assets/137191809/088d197c-fd56-40d1-bcc9-48dd9b983ae6)
 
 
 **Data Cleaning and Transformation**: I used Power Query to clean and transform the data, ensuring its quality and consistency.
@@ -29,22 +28,23 @@ In this project, I accomplished the following tasks:
 
 **Customer Net sales Performance Report**
 
-![image](https://github.com/SaidivyaMaganti/Financial-Analysis-of-AtliQ-Hardware/assets/137191809/e5190d57-4a0e-45b4-9cee-69342a396aa3)
+![image](https://github.com/SaidivyaMaganti/Financial-Analysis-of-AtliQ-Hardware/assets/137191809/fc68af76-9727-4bda-893b-1d964e06a960)
 
 **Market Performance vs Target**
 
-![image](https://github.com/SaidivyaMaganti/Financial-Analysis-of-AtliQ-Hardware/assets/137191809/39904f32-90de-4ca0-be2a-31e8a8cc776f)
+![image](https://github.com/SaidivyaMaganti/Financial-Analysis-of-AtliQ-Hardware/assets/137191809/dc947a98-cf2f-4a71-b44a-52273889d435)
 
 **Product Performance** 
 
-![image](https://github.com/SaidivyaMaganti/Financial-Analysis-of-AtliQ-Hardware/assets/137191809/941394c7-0847-471e-bd49-f50e216038a4)
+![image](https://github.com/SaidivyaMaganti/Financial-Analysis-of-AtliQ-Hardware/assets/137191809/80dc8d31-a6ec-4757-b3e7-32d3e0b3302e)
 
 **P & L Values by Fiscal Year** 
 
-![image](https://github.com/SaidivyaMaganti/Financial-Analysis-of-AtliQ-Hardware/assets/137191809/468c5dcf-e21d-4416-b613-ab11be219aec)
-![image](https://github.com/SaidivyaMaganti/Financial-Analysis-of-AtliQ-Hardware/assets/137191809/7a1c54b5-07db-4079-b7ac-be91ff038a97)
+![image](https://github.com/SaidivyaMaganti/Financial-Analysis-of-AtliQ-Hardware/assets/137191809/6793b3c1-5c5a-4853-b8e8-1d37e5b45eba)
+![image](https://github.com/SaidivyaMaganti/Financial-Analysis-of-AtliQ-Hardware/assets/137191809/c294cfd3-ce96-43bb-94f4-56bbc6a342c5)
 
 **P & L Values by Months**
 
-![image](https://github.com/SaidivyaMaganti/Financial-Analysis-of-AtliQ-Hardware/assets/137191809/68b9f239-1c84-4d41-9d94-b624d4d74454)
+![image](https://github.com/SaidivyaMaganti/Financial-Analysis-of-AtliQ-Hardware/assets/137191809/0be24032-5c97-438d-8cfa-d2b2ad414314)
+
 
